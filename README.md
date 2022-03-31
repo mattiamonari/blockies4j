@@ -38,7 +38,7 @@ primaryStage.show();
 ```
 
 ## Result:
-
-![This is an image](res/blockies.jpg)
-
+<p align="center">
+     <img src="res/blockies.jpg" alt="Blockie example">
+</p>
 
